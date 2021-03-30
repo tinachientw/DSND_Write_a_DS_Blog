@@ -46,5 +46,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The data has been provided by Kaggle and can be found [here](https://insights.stackoverflow.com/survey).
+The data has been provided by stack overflow and can be found [here](https://insights.stackoverflow.com/survey).
 
