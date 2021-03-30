@@ -42,7 +42,7 @@ As a software engineer, it is very important to know the job market and the tren
 
 Overall, the data we have used help to answer the questions we wanted to explore. In general, developers in North america had the highest salary. Also people has higher education and more experence also has better salary.
 
-The main findings of the code can be found at the post available [here](https://medium.com/@nouman10/insights-from-stackoverflows-data-from-the-last-three-years-ea50bba90736).
+The main findings of the code can be found at the post available [here](https://tina-chien-tw.medium.com/getting-a-higher-salary-as-a-software-engineer-ef15822836c7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
